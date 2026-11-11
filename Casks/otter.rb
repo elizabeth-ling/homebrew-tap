@@ -1,6 +1,6 @@
 cask "otter" do
-  version "1.0.0"
-  sha256 "b3c03ba7d38cfc6fe6a5a9cf9c6f09d900121305bc9b10ac461715adc52a4513"
+  version "1.1.0"
+  sha256 "67e6b73e696ac00ab2e834b7ee42ead7ab7a5e5725ae9b5674e8ca03269aba15"
 
   url "https://github.com/elizabeth-ling/otter/releases/download/v#{version}/Otter-#{version}.dmg"
   name "Otter"
